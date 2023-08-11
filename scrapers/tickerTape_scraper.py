@@ -22,7 +22,7 @@ def get_tickers(url: str) -> pd.DataFrame:
 
 
 TICKERS_URL = "https://www.tickertape.in/stocks"
-tickers_df = get_tickers(url=TICKERS_URL).head(2)
+tickers_df = get_tickers(url=TICKERS_URL).head(1)
 # print(tickers_df.head(2))
 
 
@@ -30,7 +30,7 @@ def get_data(url: str) -> list:
     req = requests.get(url=url, headers={"User-Agent": "Chrome"})
     response = req.content
     html = BeautifulSoup(response, "html.parser")
-    news_table = html.find(class_="latest-news-holder")
+    news_table = html.find(name="div", attrs={"data-section-tag": "olderNews"})
     news = []
     for name_box in news_table.find_all("p", class_="shave-root"):
         news.append(name_box.text.strip())
@@ -45,6 +45,7 @@ for _, ticker in enumerate(tickers_df["tick"]):
         + ticker
         + "/news?checklist=basic&ref=stock-overview_overview-sections&type=news"
     )
+    print(url)
     headlines = get_data(url)
     news.append(headlines)
 
