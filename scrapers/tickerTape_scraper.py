@@ -22,20 +22,23 @@ def get_tickers(url: str) -> pd.DataFrame:
 
 
 TICKERS_URL = "https://www.tickertape.in/stocks"
-tickers_df = get_tickers(url=TICKERS_URL).head(1)
-# print(tickers_df.head(2))
+tickers_df = get_tickers(url=TICKERS_URL)
 
 
 def get_data(url: str) -> list:
     req = requests.get(url=url, headers={"User-Agent": "Chrome"})
     response = req.content
     html = BeautifulSoup(response, "html.parser")
-    news_table = html.find(name="div", attrs={"data-section-tag": "olderNews"})
-    news = []
-    for name_box in news_table.find_all("p", class_="shave-root"):
-        news.append(name_box.text.strip())
+    news_div = html.find(name="div", attrs={"data-section-tag": "olderNews"})
+    news_info = []
+    links = news_div.find_all(name="a", attrs={"class": "news-card"})
+    for a in links:
+        title = a.find("h5", attrs={"class": "news-title"}).find("p").text
+        publisher = a.find("p", attrs={"class": "news-info"}).find_all("span")[-1].text
 
-    return news
+        news_info.append((title, publisher))
+
+    return news_info
 
 
 news = list()
@@ -45,7 +48,6 @@ for _, ticker in enumerate(tickers_df["tick"]):
         + ticker
         + "/news?checklist=basic&ref=stock-overview_overview-sections&type=news"
     )
-    print(url)
     headlines = get_data(url)
     news.append(headlines)
 
