@@ -9,6 +9,7 @@ import os
 
 load_dotenv()
 SECRET_KEY = os.getenv("SECRET_KEY")
+
 mongo_uri=os.getenv('MONGO_URI')
 
 app = Flask(__name__)
