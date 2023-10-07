@@ -1,5 +1,6 @@
 import React  from "react";
 import { useNavigate } from "react-router-dom";
+import {RxAvatar} from "react-icons/rx";
 
 const ViewRow=({data})=>{
     const Analyst_CompanyName = data["Analyst_CompanyName"]
@@ -41,26 +42,37 @@ const ViewRow=({data})=>{
     return (
         
             <a onClick={ViewDetail}>
-            <div style={{display:'flex' ,flexDirection:'row',flex:4,justifyContent:'flex-start', marginBottom: '20px' ,marginTop:'20px'}}>
-                <div style={{flex:1}}>
-                    {Analyst_Name}
+            <div style={{display:'flex' ,flexDirection:'row',flex:4,justifyContent:'flex-start', marginBottom: '20px' ,marginTop:'20px',height:'50px'}}>
+                
+                
+                <div style={{flex:1,flexDirection:'row',display:'flex'}}>
+                    
+              
+                <div style={{flex:1,fontSize:18}}>
+                    <RxAvatar size={30} style={{marginRight:'5'}}/>                                         {Analyst_Name}
+                    </div>
+                </div>
+
+
+                <div style={{flex:1,fontSize:18}}>
+                    {Analyst_CompanyName}
+                </div>
+
+                <div style={{flex:1,marginRight:50}}>
+                    {Title}
                 </div>
 
                 <div style={{flex:1}}>
                     {Analyst_DateofUpload}
                 </div>
 
-                <div style={{flex:1}}>
+                <div style={{flex:1,fontSize:18}}>
                     {Analyst_Source}
                 </div>
 
-                <div style={{flex:1}}>
-                    {Analyst_CompanyName}
-                </div>
+               
 
-                <div style={{flex:1}}>
-                    {Title}
-                </div>
+                
             </div>
             </a>
         

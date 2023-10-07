@@ -1,0 +1,28 @@
+.main-container{
+    /*background-color: rgb(211,208,223);*/
+    background-color: rgb(222, 214, 214);
+    
+    height: 93vh;
+    
+     
+ }
+ 
+ .login{
+     padding-top: 6%;
+     padding-bottom: 10%;
+     
+    
+ }
+ 
+ .image-bg{
+     background-color: white;
+     
+     
+     
+ }
+ 
+ .rounded_container{
+     /*background-color: rgb(243,244,248);*/
+     background-color: white;
+ }
+ 

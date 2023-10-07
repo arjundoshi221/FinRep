@@ -2,7 +2,7 @@ import glob
 import pandas as pd
 import uuid
 import fitz
-
+import datetime
 
 
 def scrape_data(file,data):
@@ -20,7 +20,8 @@ def scrape_data(file,data):
     analystName = [data.get('analystName', '')]
     timeInputted = data.get('timeInputted', '')
     analystSource = data.get('source', '')
-    dateOfUpload = data.get('dateOfUpload', '')
+    dateOfUploadStr = data.get('dateOfUpload', '')
+    dateOfUpload = datetime.datetime.strptime(dateOfUploadStr, '%m/%d/%Y')
     notes = data.get('notes', '')
     companyName = data.get('companyName', '')
 
@@ -100,6 +101,8 @@ def scrape_data(file,data):
             "Content",
         ]
     )
+
+    datesObj=datetime.datetime.strptime(dates[0], '%m/%d/%Y')
     result['Analyst_Name']=analystName
     result['Analyst_DateofUpload']=dateOfUpload
     result['Analyst_TimeofUpload']=timeInputted
@@ -107,7 +110,7 @@ def scrape_data(file,data):
     result['Analyst_Source']=analystSource
     result['Analyst_CompanyName']=companyName
     result["ID"] = ids
-    result["Date"] = dates
+    result["Date"] = datesObj
     result["Time"] = times
     result["Ticker"] = ticker_lst
     result["Source_ticker"] = source_tickers

@@ -69,12 +69,15 @@ function AnalystForm() {
   };
 
   return (
-    <div>
-      <h1>Analyst Form</h1>
+    <div className='container'>
+      <h2>Submit Details</h2>
       <form onSubmit={handleSubmit}>
-      <div>
-          <label>Name of Analyst:</label>
-          <select
+
+
+      <div class='row mt-5'>
+
+          <label class="col-sm-6 col-form-label">Name of Analyst:</label>
+          <select class="col-sm-6"
             name="analystName"
             value={formData.analystName}
             onChange={handleInputChange}
@@ -86,27 +89,32 @@ function AnalystForm() {
           </select>
         </div>
        
-        <div>
-          <label>Source:</label>
+        <div  class='row  mt-5'>
+          <label class="col-sm-6 col-form-label">Source:</label>
           <input
             type="text"
             name="source"
             value={formData.source}
             onChange={handleInputChange}
             required
+            class="col-sm-6"
           />
         </div>
-        <div>
-          <label>Notes:</label>
+
+        <div  class='row  mt-5'>
+          <label class="col-sm-6 col-form-label">Notes:</label>
           <textarea
+          class="col-sm-6"
             name="notes"
             value={formData.notes}
             onChange={handleInputChange}
           />
         </div>
-        <div>
-          <label>Name of Company:</label>
+
+        <div  class='row  mt-5' >
+          <label class="col-sm-6 col-form-label">Name of Company:</label>
           <input
+          class="col-sm-6"
             type="text"
             name="companyName"
             value={formData.companyName}
@@ -114,10 +122,13 @@ function AnalystForm() {
             required
           />
         </div>
-        <div>
-          <label>Upload PDF:</label>
+
+        <div  class='row  mt-5' >
+          <label class="col-sm-4 col-form-label">Upload PDF:</label>
           <input
+          class="col-sm-8 form-control"
             type="file"
+            
             name='file'
             accept=".pdf"
             onChange={handleFileInputChange}
@@ -125,10 +136,13 @@ function AnalystForm() {
             
           />
         </div>
+
+     
         <div>
           {errorMsg}
         </div>
-        <div>
+
+        <div  class='text-center mt-5'>
           <button type="submit">Submit</button>
         </div>
       </form>

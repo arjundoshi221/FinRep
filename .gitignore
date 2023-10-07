@@ -3,3 +3,4 @@ server/env/.env
 server/env/__pycache__
 server/env/lib
 server/env/Scripts
+server/.venv

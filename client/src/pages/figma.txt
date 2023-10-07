@@ -1,0 +1,345 @@
+<div style="width: 928px; height: 504px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+  <div style="align-self: stretch; height: 56px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="align-self: stretch; padding: 16px; background: #FAFAFA; border-bottom: 1px rgba(0, 0, 0, 0.06) solid; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+      <div style="width: 22px; height: 0px; transform: rotate(-90deg); transform-origin: 0 0; border: 1px rgba(0, 0, 0, 0.06) solid"></div>
+      <div style="flex: 1 1 0; color: rgba(0, 0, 0, 0.85); font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 22px; word-wrap: break-word">Name</div>
+    </div>
+    <div style="flex: 1 1 0; align-self: stretch; padding: 16px; background: #F5F5F5; border-bottom: 1px rgba(0, 0, 0, 0.06) solid; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+      <div style="width: 22px; height: 0px; transform: rotate(-90deg); transform-origin: 0 0; border: 1px rgba(0, 0, 0, 0.06) solid"></div>
+      <div style="width: 193px; height: 934px; mix-blend-mode: multiply; background: #FAFAFA"></div>
+      <div style="flex: 1 1 0; height: 22px; color: rgba(0, 0, 0, 0.85); font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 22px; word-wrap: break-word">Role</div>
+      <div style="width: 11px; height: 22px; position: relative">
+        <div style="width: 11px; height: 11px; left: 0px; top: 10px; position: absolute">
+          <div style="width: 8.51px; height: 5.12px; left: 1.25px; top: 2.94px; position: absolute; background: #1890FF"></div>
+        </div>
+        <div style="width: 11px; height: 11px; left: 0px; top: 2px; position: absolute">
+          <div style="width: 8.51px; height: 5.12px; left: 1.25px; top: 2.94px; position: absolute; background: rgba(0, 0, 0, 0.25)"></div>
+        </div>
+      </div>
+    </div>
+    <div style="flex: 1 1 0; align-self: stretch; padding: 16px; background: #FAFAFA; border-bottom: 1px rgba(0, 0, 0, 0.06) solid; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+      <div style="width: 22px; height: 0px; transform: rotate(-90deg); transform-origin: 0 0; border: 1px rgba(0, 0, 0, 0.06) solid"></div>
+      <div style="flex: 1 1 0; color: rgba(0, 0, 0, 0.85); font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 22px; word-wrap: break-word">Uploaded File</div>
+    </div>
+    <div style="align-self: stretch; padding: 16px; background: #FAFAFA; border-bottom: 1px rgba(0, 0, 0, 0.06) solid; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+      <div style="width: 22px; height: 0px; transform: rotate(-90deg); transform-origin: 0 0; border: 1px rgba(0, 0, 0, 0.06) solid"></div>
+      <div style="flex: 1 1 0; color: rgba(0, 0, 0, 0.85); font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 22px; word-wrap: break-word">Tags</div>
+    </div>
+    <div style="flex: 1 1 0; align-self: stretch; padding: 16px; background: #FAFAFA; border-bottom: 1px rgba(0, 0, 0, 0.06) solid; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+      <div style="width: 22px; height: 0px; transform: rotate(-90deg); transform-origin: 0 0; border: 1px rgba(0, 0, 0, 0.06) solid"></div>
+      <div style="flex: 1 1 0; color: rgba(0, 0, 0, 0.85); font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 22px; word-wrap: break-word">Actions</div>
+    </div>
+  </div>
+  <div style="align-self: stretch; height: 56px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+      <div style="width: 22px; height: 22px; border-radius: 100px; background-image: url(https://via.placeholder.com/22x22); flex-direction: column; justify-content: flex-start; align-items: flex-end; display: inline-flex">
+        <div style="align-self: stretch; height: 22px; transform: rotate(-45deg); transform-origin: 0 0; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+          <div style="width: 0px; align-self: stretch; transform: rotate(24.47deg); transform-origin: 0 0; border: 1px solid"></div>
+        </div>
+      </div>
+      <div style="color: rgba(0, 0, 0, 0.85); font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Theresa Webb</div>
+    </div>
+    <div style="flex: 1 1 0; align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; flex-direction: column; justify-content: center; align-items: flex-start; display: inline-flex">
+      <div style="color: rgba(0, 0, 0, 0.85); font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Medical Assistant</div>
+    </div>
+    <div style="flex: 1 1 0; align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+      <div style="color: rgba(0, 0, 0, 0.85); font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">DF_ASKD_UED_changed_2393.pdf</div>
+      <div style="width: 14px; height: 14px; position: relative">
+        <div style="width: 11px; height: 14px; left: 1.50px; top: -0px; position: absolute; background: rgba(0, 0, 0, 0.25)"></div>
+      </div>
+    </div>
+    <div style="width: 174px; align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; flex-direction: column; justify-content: center; align-items: flex-start; gap: 8px; display: inline-flex">
+      <div style="flex: 1 1 0; padding-top: 17px; padding-bottom: 17px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+        <div style="padding-left: 8px; padding-right: 8px; padding-top: 1px; padding-bottom: 1px; background: #F6FFED; border-radius: 2px; border: 1px #B7EB8F solid; justify-content: flex-start; align-items: center; gap: 3px; display: flex">
+          <div style="color: #52C41A; font-size: 12px; font-family: Roboto; font-weight: 400; line-height: 20px; word-wrap: break-word">green</div>
+          <div style="width: 10px; height: 10px; position: relative">
+            <div style="width: 7.07px; height: 7.28px; left: 1.46px; top: 1.36px; position: absolute; background: rgba(0, 0, 0, 0.45)"></div>
+          </div>
+        </div>
+        <div style="padding-left: 8px; padding-right: 8px; padding-top: 1px; padding-bottom: 1px; background: #F0F5FF; border-radius: 2px; border: 1px #ADC6FF solid; justify-content: flex-start; align-items: center; gap: 3px; display: flex">
+          <div style="color: #2F54EB; font-size: 12px; font-family: Roboto; font-weight: 400; line-height: 20px; word-wrap: break-word">geekblue</div>
+          <div style="width: 10px; height: 10px; position: relative">
+            <div style="width: 7.07px; height: 7.28px; left: 1.46px; top: 1.36px; position: absolute; background: rgba(0, 0, 0, 0.45)"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="flex: 1 1 0; align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; justify-content: flex-start; align-items: center; gap: 16px; display: flex">
+      <div style="color: #1890FF; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Approve</div>
+      <div style="color: #1890FF; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Delete</div>
+    </div>
+  </div>
+  <div style="align-self: stretch; height: 56px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+      <div style="width: 22px; height: 22px; border-radius: 100px; background-image: url(https://via.placeholder.com/22x22); flex-direction: column; justify-content: flex-start; align-items: flex-end; display: inline-flex">
+        <div style="align-self: stretch; height: 22px; transform: rotate(-45deg); transform-origin: 0 0; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+          <div style="width: 0px; align-self: stretch; transform: rotate(24.47deg); transform-origin: 0 0; border: 1px solid"></div>
+        </div>
+      </div>
+      <div style="color: rgba(0, 0, 0, 0.85); font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Jacob Jones</div>
+    </div>
+    <div style="flex: 1 1 0; align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; flex-direction: column; justify-content: center; align-items: flex-start; display: inline-flex">
+      <div style="color: rgba(0, 0, 0, 0.85); font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Marketing Coordinator</div>
+    </div>
+    <div style="flex: 1 1 0; align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+      <div style="color: rgba(0, 0, 0, 0.85); font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Scann_158.pdf</div>
+      <div style="width: 14px; height: 14px; position: relative">
+        <div style="width: 11px; height: 14px; left: 1.50px; top: -0px; position: absolute; background: rgba(0, 0, 0, 0.25)"></div>
+      </div>
+    </div>
+    <div style="width: 174px; align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; flex-direction: column; justify-content: center; align-items: flex-start; gap: 8px; display: inline-flex">
+      <div style="flex: 1 1 0; padding-top: 17px; padding-bottom: 17px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+        <div style="padding-left: 8px; padding-right: 8px; padding-top: 1px; padding-bottom: 1px; background: #F6FFED; border-radius: 2px; border: 1px #B7EB8F solid; justify-content: flex-start; align-items: center; gap: 3px; display: flex">
+          <div style="color: #52C41A; font-size: 12px; font-family: Roboto; font-weight: 400; line-height: 20px; word-wrap: break-word">green</div>
+          <div style="width: 10px; height: 10px; position: relative">
+            <div style="width: 7.07px; height: 7.28px; left: 1.46px; top: 1.36px; position: absolute; background: rgba(0, 0, 0, 0.45)"></div>
+          </div>
+        </div>
+        <div style="padding-left: 8px; padding-right: 8px; padding-top: 1px; padding-bottom: 1px; background: #F0F5FF; border-radius: 2px; border: 1px #ADC6FF solid; justify-content: flex-start; align-items: center; gap: 3px; display: flex">
+          <div style="color: #2F54EB; font-size: 12px; font-family: Roboto; font-weight: 400; line-height: 20px; word-wrap: break-word">geekblue</div>
+          <div style="width: 10px; height: 10px; position: relative">
+            <div style="width: 7.07px; height: 7.28px; left: 1.46px; top: 1.36px; position: absolute; background: rgba(0, 0, 0, 0.45)"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="flex: 1 1 0; align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; justify-content: flex-start; align-items: center; gap: 16px; display: flex">
+      <div style="color: #1890FF; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Approve</div>
+      <div style="color: #1890FF; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Delete</div>
+    </div>
+  </div>
+  <div style="align-self: stretch; height: 56px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+      <div style="width: 22px; height: 22px; border-radius: 100px; background-image: url(https://via.placeholder.com/22x22); flex-direction: column; justify-content: flex-start; align-items: flex-end; display: inline-flex">
+        <div style="align-self: stretch; height: 22px; transform: rotate(-45deg); transform-origin: 0 0; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+          <div style="width: 0px; align-self: stretch; transform: rotate(24.47deg); transform-origin: 0 0; border: 1px solid"></div>
+        </div>
+      </div>
+      <div style="color: rgba(0, 0, 0, 0.85); font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Wade Warren</div>
+    </div>
+    <div style="flex: 1 1 0; align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; flex-direction: column; justify-content: center; align-items: flex-start; display: inline-flex">
+      <div style="color: rgba(0, 0, 0, 0.85); font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Medical Assistant</div>
+    </div>
+    <div style="flex: 1 1 0; align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+      <div style="color: rgba(0, 0, 0, 0.85); font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">FunnyMemeOMG.gif</div>
+      <div style="width: 14px; height: 14px; position: relative">
+        <div style="width: 11px; height: 14px; left: 1.50px; top: -0px; position: absolute; background: rgba(0, 0, 0, 0.25)"></div>
+      </div>
+    </div>
+    <div style="width: 174px; align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; flex-direction: column; justify-content: center; align-items: flex-start; gap: 8px; display: inline-flex">
+      <div style="flex: 1 1 0; padding-top: 17px; padding-bottom: 17px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+        <div style="padding-left: 8px; padding-right: 8px; padding-top: 1px; padding-bottom: 1px; background: #F6FFED; border-radius: 2px; border: 1px #B7EB8F solid; justify-content: flex-start; align-items: center; gap: 3px; display: flex">
+          <div style="color: #52C41A; font-size: 12px; font-family: Roboto; font-weight: 400; line-height: 20px; word-wrap: break-word">green</div>
+          <div style="width: 10px; height: 10px; position: relative">
+            <div style="width: 7.07px; height: 7.28px; left: 1.46px; top: 1.36px; position: absolute; background: rgba(0, 0, 0, 0.45)"></div>
+          </div>
+        </div>
+        <div style="padding-left: 8px; padding-right: 8px; padding-top: 1px; padding-bottom: 1px; background: #F0F5FF; border-radius: 2px; border: 1px #ADC6FF solid; justify-content: flex-start; align-items: center; gap: 3px; display: flex">
+          <div style="color: #2F54EB; font-size: 12px; font-family: Roboto; font-weight: 400; line-height: 20px; word-wrap: break-word">geekblue</div>
+          <div style="width: 10px; height: 10px; position: relative">
+            <div style="width: 7.07px; height: 7.28px; left: 1.46px; top: 1.36px; position: absolute; background: rgba(0, 0, 0, 0.45)"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="flex: 1 1 0; align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; justify-content: flex-start; align-items: center; gap: 16px; display: flex">
+      <div style="color: #1890FF; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Approve</div>
+      <div style="color: #1890FF; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Delete</div>
+    </div>
+  </div>
+  <div style="align-self: stretch; height: 56px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+      <div style="width: 22px; height: 22px; border-radius: 100px; background-image: url(https://via.placeholder.com/22x22); flex-direction: column; justify-content: flex-start; align-items: flex-end; display: inline-flex">
+        <div style="align-self: stretch; height: 22px; transform: rotate(-45deg); transform-origin: 0 0; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+          <div style="width: 0px; align-self: stretch; transform: rotate(24.47deg); transform-origin: 0 0; border: 1px solid"></div>
+        </div>
+      </div>
+      <div style="color: rgba(0, 0, 0, 0.85); font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Courtney Henry</div>
+    </div>
+    <div style="flex: 1 1 0; align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; flex-direction: column; justify-content: center; align-items: flex-start; display: inline-flex">
+      <div style="color: rgba(0, 0, 0, 0.85); font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Web Designer</div>
+    </div>
+    <div style="flex: 1 1 0; align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+      <div style="color: rgba(0, 0, 0, 0.85); font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Sheet 1.xls</div>
+      <div style="width: 14px; height: 14px; position: relative">
+        <div style="width: 11px; height: 14px; left: 1.50px; top: -0px; position: absolute; background: rgba(0, 0, 0, 0.25)"></div>
+      </div>
+    </div>
+    <div style="width: 174px; align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; flex-direction: column; justify-content: center; align-items: flex-start; gap: 8px; display: inline-flex">
+      <div style="flex: 1 1 0; padding-top: 17px; padding-bottom: 17px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+        <div style="padding-left: 8px; padding-right: 8px; padding-top: 1px; padding-bottom: 1px; background: #F6FFED; border-radius: 2px; border: 1px #B7EB8F solid; justify-content: flex-start; align-items: center; gap: 3px; display: flex">
+          <div style="color: #52C41A; font-size: 12px; font-family: Roboto; font-weight: 400; line-height: 20px; word-wrap: break-word">green</div>
+          <div style="width: 10px; height: 10px; position: relative">
+            <div style="width: 7.07px; height: 7.28px; left: 1.46px; top: 1.36px; position: absolute; background: rgba(0, 0, 0, 0.45)"></div>
+          </div>
+        </div>
+        <div style="padding-left: 8px; padding-right: 8px; padding-top: 1px; padding-bottom: 1px; background: #F0F5FF; border-radius: 2px; border: 1px #ADC6FF solid; justify-content: flex-start; align-items: center; gap: 3px; display: flex">
+          <div style="color: #2F54EB; font-size: 12px; font-family: Roboto; font-weight: 400; line-height: 20px; word-wrap: break-word">geekblue</div>
+          <div style="width: 10px; height: 10px; position: relative">
+            <div style="width: 7.07px; height: 7.28px; left: 1.46px; top: 1.36px; position: absolute; background: rgba(0, 0, 0, 0.45)"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="flex: 1 1 0; align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; justify-content: flex-start; align-items: center; gap: 16px; display: flex">
+      <div style="color: #1890FF; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Approve</div>
+      <div style="color: #1890FF; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Delete</div>
+    </div>
+  </div>
+  <div style="align-self: stretch; height: 56px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+      <div style="width: 22px; height: 22px; border-radius: 100px; background-image: url(https://via.placeholder.com/22x22); flex-direction: column; justify-content: flex-start; align-items: flex-end; display: inline-flex">
+        <div style="align-self: stretch; height: 22px; transform: rotate(-45deg); transform-origin: 0 0; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+          <div style="width: 0px; align-self: stretch; transform: rotate(24.47deg); transform-origin: 0 0; border: 1px solid"></div>
+        </div>
+      </div>
+      <div style="color: rgba(0, 0, 0, 0.85); font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Jenny Wilson</div>
+    </div>
+    <div style="flex: 1 1 0; align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; flex-direction: column; justify-content: center; align-items: flex-start; display: inline-flex">
+      <div style="color: rgba(0, 0, 0, 0.85); font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Nursing Assistant</div>
+    </div>
+    <div style="flex: 1 1 0; align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+      <div style="color: rgba(0, 0, 0, 0.85); font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">ATTACHEMENT 836128956.html</div>
+      <div style="width: 14px; height: 14px; position: relative">
+        <div style="width: 11px; height: 14px; left: 1.50px; top: -0px; position: absolute; background: rgba(0, 0, 0, 0.25)"></div>
+      </div>
+    </div>
+    <div style="width: 174px; align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; flex-direction: column; justify-content: center; align-items: flex-start; gap: 8px; display: inline-flex">
+      <div style="flex: 1 1 0; padding-top: 17px; padding-bottom: 17px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+        <div style="padding-left: 8px; padding-right: 8px; padding-top: 1px; padding-bottom: 1px; background: #F6FFED; border-radius: 2px; border: 1px #B7EB8F solid; justify-content: flex-start; align-items: center; gap: 3px; display: flex">
+          <div style="color: #52C41A; font-size: 12px; font-family: Roboto; font-weight: 400; line-height: 20px; word-wrap: break-word">green</div>
+          <div style="width: 10px; height: 10px; position: relative">
+            <div style="width: 7.07px; height: 7.28px; left: 1.46px; top: 1.36px; position: absolute; background: rgba(0, 0, 0, 0.45)"></div>
+          </div>
+        </div>
+        <div style="padding-left: 8px; padding-right: 8px; padding-top: 1px; padding-bottom: 1px; background: #F0F5FF; border-radius: 2px; border: 1px #ADC6FF solid; justify-content: flex-start; align-items: center; gap: 3px; display: flex">
+          <div style="color: #2F54EB; font-size: 12px; font-family: Roboto; font-weight: 400; line-height: 20px; word-wrap: break-word">geekblue</div>
+          <div style="width: 10px; height: 10px; position: relative">
+            <div style="width: 7.07px; height: 7.28px; left: 1.46px; top: 1.36px; position: absolute; background: rgba(0, 0, 0, 0.45)"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="flex: 1 1 0; align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; justify-content: flex-start; align-items: center; gap: 16px; display: flex">
+      <div style="color: #1890FF; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Approve</div>
+      <div style="color: #1890FF; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Delete</div>
+    </div>
+  </div>
+  <div style="align-self: stretch; height: 56px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+      <div style="width: 22px; height: 22px; border-radius: 100px; background-image: url(https://via.placeholder.com/22x22); flex-direction: column; justify-content: flex-start; align-items: flex-end; display: inline-flex">
+        <div style="align-self: stretch; height: 22px; transform: rotate(-45deg); transform-origin: 0 0; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+          <div style="width: 0px; align-self: stretch; transform: rotate(24.47deg); transform-origin: 0 0; border: 1px solid"></div>
+        </div>
+      </div>
+      <div style="color: rgba(0, 0, 0, 0.85); font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Savannah Nguyen</div>
+    </div>
+    <div style="flex: 1 1 0; align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; flex-direction: column; justify-content: center; align-items: flex-start; display: inline-flex">
+      <div style="color: rgba(0, 0, 0, 0.85); font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">President of Sales</div>
+    </div>
+    <div style="flex: 1 1 0; align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+      <div style="color: rgba(0, 0, 0, 0.85); font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">doument_1.pdf</div>
+      <div style="width: 14px; height: 14px; position: relative">
+        <div style="width: 11px; height: 14px; left: 1.50px; top: -0px; position: absolute; background: rgba(0, 0, 0, 0.25)"></div>
+      </div>
+    </div>
+    <div style="width: 174px; align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; flex-direction: column; justify-content: center; align-items: flex-start; gap: 8px; display: inline-flex">
+      <div style="flex: 1 1 0; padding-top: 17px; padding-bottom: 17px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+        <div style="padding-left: 8px; padding-right: 8px; padding-top: 1px; padding-bottom: 1px; background: #F6FFED; border-radius: 2px; border: 1px #B7EB8F solid; justify-content: flex-start; align-items: center; gap: 3px; display: flex">
+          <div style="color: #52C41A; font-size: 12px; font-family: Roboto; font-weight: 400; line-height: 20px; word-wrap: break-word">green</div>
+          <div style="width: 10px; height: 10px; position: relative">
+            <div style="width: 7.07px; height: 7.28px; left: 1.46px; top: 1.36px; position: absolute; background: rgba(0, 0, 0, 0.45)"></div>
+          </div>
+        </div>
+        <div style="padding-left: 8px; padding-right: 8px; padding-top: 1px; padding-bottom: 1px; background: #F0F5FF; border-radius: 2px; border: 1px #ADC6FF solid; justify-content: flex-start; align-items: center; gap: 3px; display: flex">
+          <div style="color: #2F54EB; font-size: 12px; font-family: Roboto; font-weight: 400; line-height: 20px; word-wrap: break-word">geekblue</div>
+          <div style="width: 10px; height: 10px; position: relative">
+            <div style="width: 7.07px; height: 7.28px; left: 1.46px; top: 1.36px; position: absolute; background: rgba(0, 0, 0, 0.45)"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="flex: 1 1 0; align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; justify-content: flex-start; align-items: center; gap: 16px; display: flex">
+      <div style="color: #1890FF; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Approve</div>
+      <div style="color: #1890FF; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Delete</div>
+    </div>
+  </div>
+  <div style="align-self: stretch; height: 56px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+      <div style="width: 22px; height: 22px; border-radius: 100px; background-image: url(https://via.placeholder.com/22x22); flex-direction: column; justify-content: flex-start; align-items: flex-end; display: inline-flex">
+        <div style="align-self: stretch; height: 22px; transform: rotate(-45deg); transform-origin: 0 0; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+          <div style="width: 0px; align-self: stretch; transform: rotate(24.47deg); transform-origin: 0 0; border: 1px solid"></div>
+        </div>
+      </div>
+      <div style="color: rgba(0, 0, 0, 0.85); font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Brooklyn Simmons</div>
+    </div>
+    <div style="flex: 1 1 0; align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; flex-direction: column; justify-content: center; align-items: flex-start; display: inline-flex">
+      <div style="color: rgba(0, 0, 0, 0.85); font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Dog Trainer</div>
+    </div>
+    <div style="flex: 1 1 0; align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+      <div style="color: rgba(0, 0, 0, 0.85); font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">README.rm</div>
+      <div style="width: 14px; height: 14px; position: relative">
+        <div style="width: 11px; height: 14px; left: 1.50px; top: -0px; position: absolute; background: rgba(0, 0, 0, 0.25)"></div>
+      </div>
+    </div>
+    <div style="width: 174px; align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; flex-direction: column; justify-content: center; align-items: flex-start; gap: 8px; display: inline-flex">
+      <div style="flex: 1 1 0; padding-top: 17px; padding-bottom: 17px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+        <div style="padding-left: 8px; padding-right: 8px; padding-top: 1px; padding-bottom: 1px; background: #F6FFED; border-radius: 2px; border: 1px #B7EB8F solid; justify-content: flex-start; align-items: center; gap: 3px; display: flex">
+          <div style="color: #52C41A; font-size: 12px; font-family: Roboto; font-weight: 400; line-height: 20px; word-wrap: break-word">green</div>
+          <div style="width: 10px; height: 10px; position: relative">
+            <div style="width: 7.07px; height: 7.28px; left: 1.46px; top: 1.36px; position: absolute; background: rgba(0, 0, 0, 0.45)"></div>
+          </div>
+        </div>
+        <div style="padding-left: 8px; padding-right: 8px; padding-top: 1px; padding-bottom: 1px; background: #F0F5FF; border-radius: 2px; border: 1px #ADC6FF solid; justify-content: flex-start; align-items: center; gap: 3px; display: flex">
+          <div style="color: #2F54EB; font-size: 12px; font-family: Roboto; font-weight: 400; line-height: 20px; word-wrap: break-word">geekblue</div>
+          <div style="width: 10px; height: 10px; position: relative">
+            <div style="width: 7.07px; height: 7.28px; left: 1.46px; top: 1.36px; position: absolute; background: rgba(0, 0, 0, 0.45)"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="flex: 1 1 0; align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; justify-content: flex-start; align-items: center; gap: 16px; display: flex">
+      <div style="color: #1890FF; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Approve</div>
+      <div style="color: #1890FF; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Delete</div>
+    </div>
+  </div>
+  <div style="align-self: stretch; height: 56px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+      <div style="width: 22px; height: 22px; border-radius: 100px; background-image: url(https://via.placeholder.com/22x22); flex-direction: column; justify-content: flex-start; align-items: flex-end; display: inline-flex">
+        <div style="align-self: stretch; height: 22px; transform: rotate(-45deg); transform-origin: 0 0; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+          <div style="width: 0px; align-self: stretch; transform: rotate(24.47deg); transform-origin: 0 0; border: 1px solid"></div>
+        </div>
+      </div>
+      <div style="color: rgba(0, 0, 0, 0.85); font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Kathryn Murphy</div>
+    </div>
+    <div style="flex: 1 1 0; align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; flex-direction: column; justify-content: center; align-items: flex-start; display: inline-flex">
+      <div style="color: rgba(0, 0, 0, 0.85); font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Medical Assistant</div>
+    </div>
+    <div style="flex: 1 1 0; align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+      <div style="color: rgba(0, 0, 0, 0.85); font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">legal-tenure.pdf</div>
+      <div style="width: 14px; height: 14px; position: relative">
+        <div style="width: 11px; height: 14px; left: 1.50px; top: -0px; position: absolute; background: rgba(0, 0, 0, 0.25)"></div>
+      </div>
+    </div>
+    <div style="width: 174px; align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; flex-direction: column; justify-content: center; align-items: flex-start; gap: 8px; display: inline-flex">
+      <div style="flex: 1 1 0; padding-top: 17px; padding-bottom: 17px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+        <div style="padding-left: 8px; padding-right: 8px; padding-top: 1px; padding-bottom: 1px; background: #F6FFED; border-radius: 2px; border: 1px #B7EB8F solid; justify-content: flex-start; align-items: center; gap: 3px; display: flex">
+          <div style="color: #52C41A; font-size: 12px; font-family: Roboto; font-weight: 400; line-height: 20px; word-wrap: break-word">green</div>
+          <div style="width: 10px; height: 10px; position: relative">
+            <div style="width: 7.07px; height: 7.28px; left: 1.46px; top: 1.36px; position: absolute; background: rgba(0, 0, 0, 0.45)"></div>
+          </div>
+        </div>
+        <div style="padding-left: 8px; padding-right: 8px; padding-top: 1px; padding-bottom: 1px; background: #F0F5FF; border-radius: 2px; border: 1px #ADC6FF solid; justify-content: flex-start; align-items: center; gap: 3px; display: flex">
+          <div style="color: #2F54EB; font-size: 12px; font-family: Roboto; font-weight: 400; line-height: 20px; word-wrap: break-word">geekblue</div>
+          <div style="width: 10px; height: 10px; position: relative">
+            <div style="width: 7.07px; height: 7.28px; left: 1.46px; top: 1.36px; position: absolute; background: rgba(0, 0, 0, 0.45)"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="flex: 1 1 0; align-self: stretch; padding: 16px; background: rgba(255, 255, 255, 0); border-bottom: 1px rgba(0, 0, 0, 0.06) solid; justify-content: flex-start; align-items: center; gap: 16px; display: flex">
+      <div style="color: #1890FF; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Approve</div>
+      <div style="color: #1890FF; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">Delete</div>
+    </div>
+  </div>
+</div>

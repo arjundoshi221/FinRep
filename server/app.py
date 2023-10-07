@@ -5,13 +5,16 @@ from pymongo import MongoClient
 from pandas import DataFrame as df
 from dotenv import load_dotenv
 import os
-
+import datetime
 
 load_dotenv()
+
 SECRET_KEY = os.getenv("SECRET_KEY")
 
 mongo_uri=os.getenv('MONGO_URI')
 
+#mongo_uri="mongodb+srv://jairajani1709:jaijaijai1709@cluster0.xpthex2.mongodb.net/FinRep?retryWrites=true&w=majority&appName=AtlasApp"
+#SECRET_KEY='FINREP12345'
 app = Flask(__name__)
 app.config['SECRET_KEY'] = SECRET_KEY
 
@@ -81,11 +84,44 @@ def data():
              for doc in documents:
                     doc['_id'] = str(doc['_id'])
 
-             print(documents)
+             #print(documents)
              return jsonify(documents)
+
+@app.route('/viewdates',methods=['POST'])
+def viewdates():
+     if request.method=='POST':
+           data=request.form
+           date1=data.get('date1','')
+           start_date = datetime.datetime.strptime(date1, '%m/%d/%Y')
+           date2=data.get('date2','')
+           end_date = datetime.datetime.strptime(date2, '%m/%d/%Y')
+           name=data.get('name','')
+           if name=='':
+                 query = {
+              'Date': {
+                     '$gte': start_date,
+                     '$lte': end_date,
+                     
+              }
+             }
+           else:
+
+              query = {
+                     'Date': {
+                            '$gte': start_date,
+                            '$lte': end_date,
+                            
+                     },
+                     'Analyst_Name':name}
+           result = list(collection.find(query))
+           for doc in result:
+                    doc['_id'] = str(doc['_id'])
+
+           return jsonify(result)
+
              
 
 
 
 if __name__ == '__main__':
-   app.run(debug = True)
+   app.run(port=int(5000),debug = True)
